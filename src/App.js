@@ -12,7 +12,7 @@ function Hero() {
     <section className="hero" id="home">
       <div className="hero-left">
         <img
-          src="./assets/profile.JPG"
+          src="/assets/profile.JPG"
           alt="Khushboo Agrawal"
           className="profile-img"
         />
@@ -42,7 +42,7 @@ function About() {
       <h2 className="section-title">About Me</h2>
       <div className="about-container">
         <div className="about-left">
-          <img src="./assets/profile.png" alt="Profile" className="about-img" />
+          <img src="/assets/profile.png" alt="Profile" className="about-img" />
         </div>
         <div className="about-right">
           <div className="education-card">
@@ -110,17 +110,17 @@ function Projects() {
       <h2 className="section-title">Projects</h2>
       <div className="projects-grid">
         <div className="project-card">
-          <img src="./assets/nyc-spot.png" alt="Find the Perfect NYC Spot" className="project-img" />
+          <img src="/assets/nyc-spot.png" alt="Find the Perfect NYC Spot" className="project-img" />
           <h3>Find the Perfect NYC Spot</h3>
           <a href="https://github.com/KhushbooAgrawal190803/Find-the-Perfect-NYC-Spot-" target="_blank" rel="noreferrer" className="btn">GitHub</a>
         </div>
         <div className="project-card">
-          <img src="./assets/stock-sentiment.png" alt="Stock Sentiment Analyzer" className="project-img" />
+          <img src="/assets/stock-sentiment.png" alt="Stock Sentiment Analyzer" className="project-img" />
           <h3>Stock Sentiment Analyzer</h3>
           <a href="https://github.com/KhushbooAgrawal190803/MoodMarkets" target="_blank" rel="noreferrer" className="btn">GitHub</a>
         </div>
         <div className="project-card">
-          <img src="./assets/banking-system.png" alt="Banking Management System" className="project-img" />
+          <img src="/assets/banking-system.png" alt="Banking Management System" className="project-img" />
           <h3>Banking Management System</h3>
           <a href="https://github.com/KhushbooAgrawal190803/Banking-Management-System" target="_blank" rel="noreferrer" className="btn">GitHub</a>
         </div>
